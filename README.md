@@ -19,3 +19,4 @@
  </div>
  <div>
  <img src="http://pa1.narvii.com/6500/103ca099287008bb4ed29da7956074adf2a3e798_00.gif"</div>
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
